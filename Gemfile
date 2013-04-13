@@ -23,7 +23,7 @@ group :assets do
 end
 
 group :production do
-	gem 'postgres'
+	gem 'pg'
 end
 
 gem 'jquery-rails'
